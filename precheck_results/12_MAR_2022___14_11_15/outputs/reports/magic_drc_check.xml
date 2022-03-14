@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<report-database>
+    <categories>
+        <category>
+            <name>MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b</name>
+        </category>
+        <category>
+            <name>Spacing_of_metal1_features_attached_to_and_within_0dot28um_of_large_metal1_lt_0dot28um_met1dot3a</name>
+        </category>
+    </categories>
+    <cells>
+        <cell>
+            <name>user_analog_project_wrapper</name>
+        </cell>
+    </cells>
+    <items>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (496.350,3438.120;497.050,3446.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (496.350,3433.090;497.050,3438.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (521.920,3433.090;522.620,3446.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (547.490,3433.090;548.190,3446.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (497.550,3433.090;498.250,3438.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (497.550,3438.120;498.250,3446.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (523.120,3433.090;523.820,3446.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (548.690,3433.090;549.390,3446.120)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (2098.610,3426.160;2124.800,3426.860)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (2098.610,3400.260;2124.800,3400.960)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (2098.610,3427.360;2124.800,3428.060)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'MiM2_cap_bottom_plate_spacing_lt_1dot2um_cap2mdot2b'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (2098.610,3401.460;2124.800,3402.160)</value>
+                <value>text: 'On layer cap2m'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'Spacing_of_metal1_features_attached_to_and_within_0dot28um_of_large_metal1_lt_0dot28um_met1dot3a'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (2106.900,3372.520;2107.080,3372.800)</value>
+                <value>text: 'On layer met1'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+        <item>
+            <category>'Spacing_of_metal1_features_attached_to_and_within_0dot28um_of_large_metal1_lt_0dot28um_met1dot3a'</category>
+            <cell>user_analog_project_wrapper</cell>
+            <visited>false</visited>
+            <multiplicity>1</multiplicity>
+            <values>
+                <value>box: (2106.620,3372.800;2106.800,3372.900)</value>
+                <value>text: 'On layer met1'</value>
+                <value>text: 'Between N/A N/A'</value>
+            </values>
+        </item>
+    </items>
+</report-database>

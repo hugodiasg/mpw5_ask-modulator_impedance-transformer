@@ -1,0 +1,64 @@
+2022-03-13 04:02:10 - [INFO] - {{EXTRACTING FILES}} Extracting compressed files in: /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer
+2022-03-13 04:02:10 - [INFO] - {{Project Type Info}} analog
+2022-03-13 04:02:10 - [INFO] - {{Project GDS Info}} user_analog_project_wrapper: 2eb63a8f1c073797f1585c914c8ecf4fc059b31b
+2022-03-13 04:02:10 - [INFO] - {{Tools Info}} KLayout: v0.27.8 | Magic: v8.3.274
+2022-03-13 04:02:10 - [INFO] - {{PDKs Info}} Open PDKs: 27ecf1c16911f7dd4428ffab96f62c1fb876ea70 | Skywater PDK: c094b6e83a4f9298e47f696ec5a7fd53535ec5eb
+2022-03-13 04:02:10 - [INFO] - {{START}} Precheck Started, the full log 'precheck.log' will be located in '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/13_MAR_2022___04_02_10/logs'
+2022-03-13 04:02:10 - [INFO] - {{PRECHECK SEQUENCE}} Precheck will run the following checks: [License, Makefile, Default, Documentation, Consistency, XOR, Magic DRC, Klayout FEOL, Klayout BEOL, Klayout Offgrid, Klayout Metal Minimum Clear Area Density, Klayout Pin Label Purposes Overlapping Drawing, Klayout ZeroArea]
+2022-03-13 04:02:10 - [INFO] - {{STEP UPDATE}} Executing Check 1 of 13: License
+2022-03-13 04:02:11 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer.
+2022-03-13 04:02:11 - [INFO] - {{MAIN LICENSE CHECK PASSED}} An approved LICENSE was found in project root.
+2022-03-13 04:02:12 - [INFO] - An approved LICENSE (Apache-2.0) was found in /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer.
+2022-03-13 04:02:12 - [INFO] - {{SUBMODULES LICENSE CHECK PASSED}} No prohibited LICENSE file(s) was found in project submodules
+2022-03-13 04:02:12 - [ERROR] - SPDX COMPLIANCE SYMLINK FILE NOT FOUND in /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/mag/.magicrc
+2022-03-13 04:02:12 - [ERROR] - SPDX COMPLIANCE SYMLINK FILE NOT FOUND in /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/mag/impedance-transformer/mag/.magicrc
+2022-03-13 04:02:12 - [ERROR] - SPDX COMPLIANCE SYMLINK FILE NOT FOUND in /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/mag/ask-modulator/mag/.magicrc
+2022-03-13 04:02:12 - [ERROR] - SPDX COMPLIANCE SYMLINK FILE NOT FOUND in /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/openlane/Makefile
+2022-03-13 04:02:12 - [WARNING] - {{SPDX COMPLIANCE CHECK FAILED}} Found 150 non-compliant file(s) with the SPDX Standard.
+2022-03-13 04:02:12 - [INFO] - SPDX COMPLIANCE: NON-COMPLIANT FILE(S) PREVIEW: ['/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/Makefile', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/outputs/reports/magic_drc_check.tr', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/outputs/reports/magic_drc_check.drc.report', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/outputs/reports/magic_drc_check.tcl', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/xor_check.total', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/tools.info', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/klayout_beol_check.total', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/klayout_zeroarea_check.total', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/klayout_offgrid_check.total', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/klayout_pin_label_purposes_overlapping_drawing_check.total', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/gds.info', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/pdks.info', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/klayout_feol_check.total', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/klayout_met_min_ca_density_check.total', '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/12_MAR_2022___14_32_33/logs/magic_drc_check.total']
+2022-03-13 04:02:12 - [INFO] - For the full SPDX compliance report check: /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/13_MAR_2022___04_02_10/logs/spdx_compliance_report.log
+2022-03-13 04:02:12 - [INFO] - {{STEP UPDATE}} Executing Check 2 of 13: Makefile
+2022-03-13 04:02:12 - [INFO] - {{MAKEFILE CHECK PASSED}} Makefile valid.
+2022-03-13 04:02:12 - [INFO] - {{STEP UPDATE}} Executing Check 3 of 13: Default
+2022-03-13 04:02:12 - [INFO] - {{README DEFAULT CHECK PASSED}} Project 'README.md' was modified and is not identical to the default 'README.md'
+2022-03-13 04:02:12 - [INFO] - {{CONTENT DEFAULT CHECK PASSED}} Project 'gds' was modified and is not identical to the default 'gds'
+2022-03-13 04:02:12 - [INFO] - {{STEP UPDATE}} Executing Check 4 of 13: Documentation
+2022-03-13 04:02:12 - [INFO] - {{DOCUMENTATION CHECK PASSED}} Project documentation is appropriate.
+2022-03-13 04:02:12 - [INFO] - {{STEP UPDATE}} Executing Check 5 of 13: Consistency
+2022-03-13 04:02:13 - [INFO] - HIERARCHY CHECK PASSED: Module user_analog_project_wrapper is instantiated in caravan. 
+2022-03-13 04:02:13 - [INFO] - COMPLEXITY CHECK PASSED: Netlist caravan contains at least 8 instances (68 instances). 
+2022-03-13 04:02:13 - [INFO] - MODELING CHECK PASSED: Netlist caravan is structural.
+2022-03-13 04:02:13 - [INFO] - SUBMODULE HOOKS CHECK PASSED: All module ports for user_analog_project_wrapper are correctly connected in the top level netlist caravan.
+2022-03-13 04:02:13 - [INFO] - {{NETLIST CONSISTENCY CHECK PASSED}} caravan netlist passed all consistency checks.
+2022-03-13 04:02:13 - [INFO] - PORTS CHECK PASSED: Netlist user_analog_project_wrapper ports match the golden wrapper ports
+2022-03-13 04:02:13 - [INFO] - COMPLEXITY CHECK PASSED: Netlist user_analog_project_wrapper contains at least 1 instances (11 instances). 
+2022-03-13 04:02:13 - [INFO] - MODELING CHECK PASSED: Netlist user_analog_project_wrapper is structural.
+2022-03-13 04:02:13 - [WARNING] - LAYOUT CHECK FAILED: The GDS layout for user_analog_project_wrapper doesn't match the provided structural netlist. Mismatching modules are: ['ask-modulator' 'impedance-transformer']
+2022-03-13 04:02:13 - [WARNING] - {{NETLIST CONSISTENCY CHECK FAILED}} user_analog_project_wrapper netlist failed 1 consistency check(s): ['LAYOUT'].
+2022-03-13 04:02:13 - [WARNING] - {{CONSISTENCY CHECK FAILED}} The user netlist and the top netlist are not valid.
+2022-03-13 04:02:13 - [INFO] - {{STEP UPDATE}} Executing Check 6 of 13: XOR
+2022-03-13 04:02:16 - [INFO] - {{XOR CHECK UPDATE}} Total XOR differences: 0, for more details view /home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/13_MAR_2022___04_02_10/outputs/user_analog_project_wrapper.xor.gds
+2022-03-13 04:02:16 - [INFO] - {{XOR CHECK PASSED}} The GDS file has no XOR violations.
+2022-03-13 04:02:16 - [INFO] - {{STEP UPDATE}} Executing Check 7 of 13: Magic DRC
+2022-03-13 04:02:17 - [INFO] - 0 DRC violations
+2022-03-13 04:02:17 - [INFO] - {{MAGIC DRC CHECK PASSED}} The GDS file, user_analog_project_wrapper.gds, has no DRC violations.
+2022-03-13 04:02:17 - [INFO] - {{STEP UPDATE}} Executing Check 8 of 13: Klayout FEOL
+2022-03-13 04:02:20 - [INFO] - No DRC Violations found
+2022-03-13 04:02:20 - [INFO] - {{Klayout FEOL CHECK PASSED}} The GDS file, user_analog_project_wrapper.gds, has no DRC violations.
+2022-03-13 04:02:20 - [INFO] - {{STEP UPDATE}} Executing Check 9 of 13: Klayout BEOL
+2022-03-13 04:02:25 - [INFO] - No DRC Violations found
+2022-03-13 04:02:25 - [INFO] - {{Klayout BEOL CHECK PASSED}} The GDS file, user_analog_project_wrapper.gds, has no DRC violations.
+2022-03-13 04:02:25 - [INFO] - {{STEP UPDATE}} Executing Check 10 of 13: Klayout Offgrid
+2022-03-13 04:02:27 - [INFO] - No DRC Violations found
+2022-03-13 04:02:27 - [INFO] - {{Klayout Offgrid CHECK PASSED}} The GDS file, user_analog_project_wrapper.gds, has no DRC violations.
+2022-03-13 04:02:27 - [INFO] - {{STEP UPDATE}} Executing Check 11 of 13: Klayout Metal Minimum Clear Area Density
+2022-03-13 04:02:28 - [INFO] - No DRC Violations found
+2022-03-13 04:02:28 - [INFO] - {{Klayout Metal Minimum Clear Area Density CHECK PASSED}} The GDS file, user_analog_project_wrapper.gds, has no DRC violations.
+2022-03-13 04:02:28 - [INFO] - {{STEP UPDATE}} Executing Check 12 of 13: Klayout Pin Label Purposes Overlapping Drawing
+2022-03-13 04:02:30 - [INFO] - No DRC Violations found
+2022-03-13 04:02:30 - [INFO] - {{Klayout Pin Label Purposes Overlapping Drawing CHECK PASSED}} The GDS file, user_analog_project_wrapper.gds, has no DRC violations.
+2022-03-13 04:02:30 - [INFO] - {{STEP UPDATE}} Executing Check 13 of 13: Klayout ZeroArea
+2022-03-13 04:02:31 - [INFO] - No DRC Violations found
+2022-03-13 04:02:31 - [INFO] - {{Klayout ZeroArea CHECK PASSED}} The GDS file, user_analog_project_wrapper.gds, has no DRC violations.
+2022-03-13 04:02:31 - [INFO] - {{FINISH}} Executing Finished, the full log 'precheck.log' can be found in '/home/hugodg/projects_sky130/mpw5_ask-modulator_impedance-transformer/precheck_results/13_MAR_2022___04_02_10/logs'
+2022-03-13 04:02:31 - [CRITICAL] - {{FAILURE}} 1 Check(s) Failed: ['Consistency'] !!!
